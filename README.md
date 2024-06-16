@@ -24,7 +24,8 @@ Supported games on realease
 - Starfield
 - Quantum break
 - Halo (1-4)
-Games coming in the newer version
+
+Games coming in newer versions
 - Control Ultimate edition
 - Celeste
 - Dead cells
