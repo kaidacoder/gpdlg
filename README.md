@@ -2,7 +2,7 @@
 ## Note: you will still have to download the games before using GPDLG as I dont own the rights to any of Xbox's licenced games
 
 ## What is gpdlg?
-Gpdlg is a tool that can be used to free up space for xbox games(both bought and game pass) gpdlg was made because of the massive difference in download sizes with different apps(primaraly Steam and Xbox pc).
+Gpdlg is a tool that can be used to free up space for xbox games(both bought and game-pass) gpdlg was made because of the massive difference in download sizes with different apps(primaraly Steam and Xbox pc).
 Xbox pc downloades every language for the game unlike steam which can bloute the game and sometimes add a extra 20gb to the game.
 
 # Questions
@@ -15,6 +15,9 @@ Gpdlg is not yet releced but i plan to release it in the following days/weeks
 
 ## Why GPDLG
 Gpdlg will be a light weight modern and sleek tool to help you get extra space on your computer for that extra game. 
+
+## What does GPDLG stand for?
+Gpdlg stands for game-pass delete language it may be a strange name but it will always be refered to its abbreviated term.
 
 # Supported games
 ```
